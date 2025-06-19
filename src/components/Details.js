@@ -17,7 +17,7 @@ function Details() {
   const logement = details[0];
   //cela fait que dans le reste de cette page pas besoin de preciser-
   //- quel objet du logement.json on parle
-
+// test test
   return (
     <div>
       <img className="cardimageDetail" src={logement.cover} />
